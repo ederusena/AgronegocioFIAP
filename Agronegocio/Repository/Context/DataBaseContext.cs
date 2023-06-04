@@ -22,5 +22,13 @@ namespace Agronegocio.Repository.Context
         protected DataBaseContext()
         {
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<FazendaModel>()
+                .HasOne(f => f.InfoClimatica)
+                .WithOne(i => i.Fazenda)
+                .HasForeignKey<InfoClimaticaModel>(i => i.FazendaId);
+        }
     }
 }

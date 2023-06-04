@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\.NET\\Agronegocio\\Agronegocio\\Agronegocio.csproj": {}
+    "C:\\Users\\Eder\\Source\\Repos\\MatEvangelist\\AgronegocioFIAP\\Agronegocio\\Agronegocio.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\.NET\\Agronegocio\\Agronegocio\\Agronegocio.csproj": {
+    "C:\\Users\\Eder\\Source\\Repos\\MatEvangelist\\AgronegocioFIAP\\Agronegocio\\Agronegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\.NET\\Agronegocio\\Agronegocio\\Agronegocio.csproj",
+        "projectUniqueName": "C:\\Users\\Eder\\Source\\Repos\\MatEvangelist\\AgronegocioFIAP\\Agronegocio\\Agronegocio.csproj",
         "projectName": "Agronegocio",
-        "projectPath": "C:\\Projetos\\.NET\\Agronegocio\\Agronegocio\\Agronegocio.csproj",
-        "packagesPath": "C:\\Users\\MathewsPereiraEvange\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\.NET\\Agronegocio\\Agronegocio\\obj\\",
+        "projectPath": "C:\\Users\\Eder\\Source\\Repos\\MatEvangelist\\AgronegocioFIAP\\Agronegocio\\Agronegocio.csproj",
+        "packagesPath": "C:\\Users\\Eder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eder\\Source\\Repos\\MatEvangelist\\AgronegocioFIAP\\Agronegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MathewsPereiraEvange\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eder\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
